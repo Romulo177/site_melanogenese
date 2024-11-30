@@ -156,6 +156,7 @@ a{
   position: relative;
   z-index: 1;
   padding: 0.5em;
+  border-bottom: black;
 }
 .conteúdo h2{
   color: #54642f;
@@ -163,6 +164,11 @@ a{
 }
 li strong{
   color: #54642f;
+}
+.dicionario{
+  background-color: black;
+  border: #4a4747 2px;
+  color: #ffffff;
 }
 
 
